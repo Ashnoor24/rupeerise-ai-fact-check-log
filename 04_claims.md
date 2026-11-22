@@ -22,14 +22,14 @@
 
 | ID | Claim | Confidence | Could be outdated? | Where to verify |
 | :--- | :--- | :---: | :---: | :--- |
-| **C01** | UPI recorded 18.2 billion transactions in October 2024 | High | Yes | `npci.org.in` (UPI Product Statistics) |
-| **C02** | UPI value was ₹26.4 lakh crore in October 2024 | High | Yes | `npci.org.in` (UPI Product Statistics) |
-| **C03** | UPI volume grew 52% YoY in October 2024 | High | Yes | `npci.org.in` |
-| **C04** | Over 450 million unique UPI users | Medium | Yes | `npci.org.in` / RBI Annual Report |
-| **C05** | Digital lending book valued at $350 billion in 2024 | High | Yes | `rbi.org.in` |
-| **C06** | Digital lending expected to reach $1.3 trillion by 2030 | High | No | `rbi.org.in` |
-| **C07** | Source: RBI Working Group Report, 2023 | High | No | `rbi.org.in` (Publications) |
-| **C08** | Circular RBI/2022-23/111 (Sept 2, 2022) mandates KFS & APR | High | No | `rbi.org.in` (Notifications) |
-| **C09** | Circular DOR.FIN.REC.42/2023-24 (Aug 14, 2023) bans contact list access | High | No | `rbi.org.in` (Notifications) |
+| **C01** | UPI recorded 18.2 billion transactions in October 2024 | High | Yes | npci.org.in (UPI Product Statistics) |
+| **C02** | UPI value was ₹26.4 lakh crore in October 2024 | High | Yes | npci.org.in (UPI Product Statistics) |
+| **C03** | UPI volume grew 52% YoY in October 2024 | High | Yes | npci.org.in |
+| **C04** | Over 450 million unique UPI users | Medium | Yes | npci.org.in / RBI Annual Report |
+| **C05** | Digital lending book valued at $350 billion in 2024 | High | Yes | rbi.org.in |
+| **C06** | Digital lending expected to reach $1.3 trillion by 2030 | High | No | rbi.org.in |
+| **C07** | Source: RBI Working Group Report, 2023 | High | No | rbi.org.in (Publications) |
+| **C08** | Circular RBI/2022-23/111 (Sept 2, 2022) mandates KFS & APR | High | No | rbi.org.in (Notifications) |
+| **C09** | Circular DOR.FIN.REC.42/2023-24 (Aug 14, 2023) bans contact list access | High | No | rbi.org.in (Notifications) |
 | **C10** | Nandan Nilekani quote at 2024 Global FinTech Fest | Medium | No | Global FinTech Fest 2024 / PIB |
 | **C11** | Source: NPCI Monthly Metrics, 2024 | High | No | `npci.org.in` |
