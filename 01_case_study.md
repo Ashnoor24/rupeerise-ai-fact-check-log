@@ -8,8 +8,8 @@ The founder asks you, a Business Analyst: *"The brief reads really well. Can I s
 
 | Data Domain | Only Accepted Proof Source |
 | :--- | :--- |
-| **UPI and payments data** | NPCI website (`npci.org.in`) |
-| **Lending rules and circulars** | RBI website (`rbi.org.in`) |
-| **Government announcements** | PIB (`pib.gov.in`) |
+| **UPI and payments data** | NPCI website (npci.org.in) |
+| **Lending rules and circulars** | RBI website (rbi.org.in) |
+| **Government announcements** | PIB (pib.gov.in) |
 | **Company figures** | The company's own annual report or official press release |
 | **Not good enough** | Blogs, social media, news without a source, or another AI tool's answer |
